@@ -8,9 +8,18 @@ This project demonstrates a real-world automation solution: **securely starting 
 
 As a process-focused engineer with a Lean Six Sigma Black Belt, I'm always looking to eliminate waste, automate repetitive tasks, and improve operational control.
 
-> ❓ Problem: How can I start/stop my EC2 instance instantly, securely, and remotely — without logging into the AWS Console?
+> ❓ **Real Problem I Solved**  
+> I use an AWS EC2 instance to run a personal VPN server — but only for a few hours daily from my mobile. Keeping the instance running 24/7 was leading to unnecessary cloud costs.  
 
-> ✅ Solution: A serverless, secure, and mobile-accessible control system built using **AWS Lambda, API Gateway, IAM, and Android shortcuts**.
+> ✅ **My Solution**  
+> I automated EC2 control using a mobile shortcut that securely starts/stops the instance with a single tap. It now only runs when needed — saving time, effort, and money.
+
+> 💡 **Additional Use Cases**  
+> - Developers who want to start/stage cloud test servers temporarily  
+> - Freelancers running project-specific compute (e.g., scraping, rendering)  
+> - Students or tech enthusiasts running learning environments or remote tools  
+> - Lightweight game servers or bot hosting  
+> - IoT device testing on-demand
 
 ---
 
@@ -83,7 +92,10 @@ As a process-focused engineer with a Lean Six Sigma Black Belt, I'm always looki
 
 ## 🔗 Connect With Me
 
-Built by [Rehan Ahmad](https://www.linkedin.com/in/rehanxahmad)  
+Built by [Rehan Ahmad](https://www.linkedin.com/in/rehanxahmad)
+- 📧 [rehanrao05@gmail.com](mailto:rehanrao05@gmail.com)
+- 📞 [+91-9068797777](tel:+919068797777)
+
 Feel free to connect if you'd like a live walkthrough or implementation help.
 
 ---
